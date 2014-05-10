@@ -3,6 +3,8 @@ COOL.tmbundle
 
 A <b>TextMate Bundle</b> for the [<b>COOL</b>]("http://en.wikipedia.org/wiki/Cool_(programming_language)" COOL) programming language.
 
+![screenshot](https://raw.githubusercontent.com/anunayk/cool-tmbundle/master/cool-syntax-highlighted-screenshot.tiff)
+
 Installation
 =============
 

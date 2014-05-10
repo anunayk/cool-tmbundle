@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>nahanl@fgnasbeq.rqh</string>
+	<key>contactName</key>
+	<string>Anunay Kulshrestha</string>
+	<key>description</key>
+	<string>COOL, an acronym for Classroom Object Oriented Language, is a computer programming language designed by Prof. Alexander Aiken for use in an undergraduate compiler course project (CS 143 at Stanford uses COOL).</string>
+	<key>name</key>
+	<string>COOL</string>
+	<key>uuid</key>
+	<string>0979C89C-FC5A-4339-8C2D-3858EE988040</string>
+</dict>
+</plist>
